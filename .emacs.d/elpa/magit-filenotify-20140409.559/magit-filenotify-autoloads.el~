@@ -1,0 +1,13 @@
+;;; magit-filenotify-autoloads.el --- automatically extracted autoloads
+;;
+;;; Code:
+
+
+(provide 'magit-filenotify-autoloads)
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; no-update-autoloads: t
+;; coding: utf-8
+;; End:
+;;; magit-filenotify-autoloads.el ends here
